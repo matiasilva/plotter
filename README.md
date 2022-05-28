@@ -1,3 +1,3 @@
 # Plotter
 
-A simple Python program that plots pretty graphs for my lab reports.
+A collection of relevant `matplotlib` scripts that have in the past helped me plot pretty graphs for my lab reports.
